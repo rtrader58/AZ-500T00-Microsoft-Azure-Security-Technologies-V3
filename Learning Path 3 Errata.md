@@ -21,15 +21,15 @@ After step 10 - Create the required Vnet using the following steps <br>
 Search for Virtual network <br>
 Click Create <br>
 Use the provided Resource Group <br>
-Nme the Vnet:  AZ500LAB09-vnet <br>
+Name the Vnet:  AZ500LAB09-vnet <br>
 Select Review+Create, then Create <br>
 
 Task 4:  Give AKS permissions to access the ACR <br>
-Step 2:   Look in your resources group to see the name of the container registry, replace <ACRuniquename> with the container name <br>
+Step 2:  Look in your resources group to see the name of the container registry, replace <ACRuniquename> with the container name <br>
 
 Task 5: Deploy an external service to AKS<br>
-Step 1:  Click on Manage files > Upload > the allfils folder is on the desktop <br>
-Step 3:  If prompted to return to previous Cloud shell click Confirm > repaste Step 3 <br>
+Step 1: Click on Manage files > Upload > the allfils folder is on the desktop <br>
+Step 3: If prompted to return to previous Cloud shell click Confirm > repaste Step 3 <br>
 Step 5: There no ellipses. Move your cursor to the upper right hand corner of the editor and left click you will see the option to save and also option to close.<br>
 Skip Step 7 <br>
 
