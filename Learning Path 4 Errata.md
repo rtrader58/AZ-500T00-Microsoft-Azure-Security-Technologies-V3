@@ -37,10 +37,10 @@ Step 10:  If you get an error when connecting, manually type in your password <b
 
 Step 16:  You may have to sign into Azure to see your key vault.  Click sign into Azure <br>
 
-# NOTE - Labs 8, 9 and 10 launch in a single lab environment - Do Note End between labs ~180 Minutes (320)
+# NOTE - Labs 8, 9, 10 and 11 launch in a single lab environment - Do Note End between labs ~180 Minutes (320)
 ### Keep an eye on the lab timer.  You will need to extend the lab at least once to complete 
 
-## Lab 8 – Azure Monitor
+## Lab 8 – Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR)
 
 ### Exercise 1: Deploy an Azure virtual machine
 
@@ -63,9 +63,13 @@ Task 3: Implement the Microsoft Defender for Cloud recommendation to enable Just
 Step 2: JIT does not appear as an option within 30 minutes, move on to Lab 15.<br> 
 It is not necessary to complete the JIT VM Access task to complete the labs.  After completing Lab 10 come back to this step<br>
 
+# ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
+
+## Lab 10: 
+
 # ***** DO NOT END THE LAB!!  After completing Lab 9 use the drop-down window at the top to move to lab 10.  Do not end the lab!! *****<br>
 
-## Lab 10: Microsoft Sentinel
+## Lab 11: Microsoft Sentinel
 
 Task 2: Configure Microsoft Sentinel to use the Azure Activity data connector<br>
 Step 10:  Per the note it may take anywhere from 10-30 minutes before the connector shows Connected. Please wait for it to show Connected before proceeding.<br>
