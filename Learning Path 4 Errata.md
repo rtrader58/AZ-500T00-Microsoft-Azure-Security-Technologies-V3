@@ -1,4 +1,4 @@
-# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~210 hours 
+# AZ-500T00 Learning Path 4 Labs Errata  – Total time ~220 Minutes (440 Min) 
 
 When starting each lab choose Yes when prompted to be visible in networks<br>
 
@@ -44,38 +44,37 @@ Step 16:  You may have to sign into Azure to see your key vault.  Click sign int
 
 ### Exercise 1: Deploy an Azure virtual machine
 
-### Exercise 3: Create an Azure storage account
-Step 3:  Leave Primary service blank
+Task 1: Deploy an Azure virtual machine <br>
+Before step 7: Run the PowerShell CMDLET provided in the box above the lab instructions <br>
+Step 10: Paste the password used for the labuser account in the Resources drop down > add 1234 to make the password 12 characters  <br>
 
 # ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
 
 ## Lab 9 – Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers
 
-### Exercise 1: Implement Microsoft Defender for Cloud
-
-Task 1: Configure Microsoft Defender for Cloud <br>
-Step 1: You’re already logged in, you can skip this step<br>
-Step 4: You may need to refresh the screen to see Install Agents (tool opver 45 minutes to show) move on with the steps<br>
-Step 10: After selecting Enable all plans > on the Plan selection blade > delect Microsoft Defender for APIs Plan 1 > click Save <br>
-Step 11: Click on Settings & monitoring > Defender plans > select All > select Apply
-
-Task 3: Implement the Microsoft Defender for Cloud recommendation to enable Just-in-time VM Access<br>
-Step 2: JIT does not appear as an option within 30 minutes, move on to Lab 15.<br> 
-It is not necessary to complete the JIT VM Access task to complete the labs.  After completing Lab 10 come back to this step<br>
+No Errata <br>
 
 # ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
 
-## Lab 10: 
+## Lab 10: Enable just-in-time access on VMs
+
+No Errata <br>
 
 # ***** DO NOT END THE LAB!!  After completing Lab 9 use the drop-down window at the top to move to lab 10.  Do not end the lab!! *****<br>
 
 ## Lab 11: Microsoft Sentinel
 
+### Exercise 1: Implement Microsoft Sentinel
+
+Task 1: On-board Microsoft Sentinel<br>
+Step 1:  You should already be logged in<br>
+
 Task 2: Configure Microsoft Sentinel to use the Azure Activity data connector<br>
-Step 10:  Per the note it may take anywhere from 10-30 minutes before the connector shows Connected. Please wait for it to show Connected before proceeding.<br>
+Step 13: Per the note it may take over 15 minutes before the connector shows Connected and Data recieved. Please wait for it to show Connected before proceeding. <br>
 
 Task 3: Create a rule that uses the Azure Activity data connector <br>
-Step 3:  You will need to split off the instructions and go full screen to see the scroll bar <br>
+Wait for Task 2 to complete before you continue >br>
+Step 3: You will need to split off the instructions and go full screen to see the scroll bar <br>
 
 Task 4: Create a playbook<br>
 Steps 1-3: Do these tasks in the VM, not your local OS.<br>
