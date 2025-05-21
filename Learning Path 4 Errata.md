@@ -74,12 +74,17 @@ Step 13: Per the note it may take over 15 minutes before the connector shows Con
 
 Task 3: Create a rule that uses the Azure Activity data connector <br>
 Wait for Task 2 to complete before you continue >br>
-Step 3: You will need to split off the instructions and go full screen to see the scroll bar <br>
+Step 3: You will need to split off the instructions and go full screen to see the scroll bar > Click on the ... and select + Dreate Rule <br>
 
 Task 4: Create a playbook<br>
 Steps 1-3: Do these tasks in the VM, not your local OS.<br>
+Step 3: Allfiles folder is located on your desktop <br>
+Step 5: Leave email blank <br>
+Step 12: Click on Change Connection > then follow the remaining step instructions > if pop is blocked > unblock it <br>
+Step 15: Click on Change Connection > Click on LabUser <br>
 
 Task 5: Create a custom alert and configure a playbook as an automated response<br>
+Step 4: Tactics should say MITRE ATT&CK <br>
 Step 10: Under Alert automation, select the drop-down and check the Select all box<br>
 
 Task 6: Invoke an incident and review the associated actions<br>
