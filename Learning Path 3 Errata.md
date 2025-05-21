@@ -15,14 +15,8 @@ Step 2:  Open the Cloud Shell by clicking the first icon in the top right of the
 Once the CloudShell opens click on Setting and select Go to classic version <br>
 
 Task 3: Create an Azure Kubernetes Service cluster<br>
-Step 6:  Do not continue until the cluster is complete<br>
-Step 10:  The Azure Kubernetes Service Cluster is inside the AZ500Lab09 Resource Group <br>
-After step 10 - Create the required Vnet using the following steps <br>
-Search for Virtual network <br>
-Click Create <br>
-Use the provided Resource Group <br>
-Name the Vnet:  AZ500LAB09-vnet <br>
-Select Review+Create, then Create <br>
+Skip steps 1 - 8:
+Already created when you ran the script in the Bash Cloudshell 
 
 Task 4:  Give AKS permissions to access the ACR <br>
 Step 2:  Look in your resources group to see the name of the container registry, replace <ACRuniquename> with the container name <br>
