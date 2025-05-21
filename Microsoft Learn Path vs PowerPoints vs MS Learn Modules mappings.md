@@ -48,7 +48,7 @@ Module 4: Configure and manage security monitoring and automation solutions  - h
 Labs <br>
 
 Lab 07 - Key Vault​  ~45 Minutes (90 Min) <br>
-Lab 08, 09 and 10 - Azure Monitor - Security Center - Azure Sentinel ~180 Minutes (350 Min) <br>
+Lab 08, 09, 10 and 11 - Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR) - Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers - Azure Sentinel ~180 Minutes (350 Min) <br>
 
 Challenge Labs supporting AZ-500T00-A - Module 4: Manage Security Operations (150 Min) <br>
 
