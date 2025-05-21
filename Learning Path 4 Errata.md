@@ -49,7 +49,7 @@ Step 3:  Leave Primary service blank
 
 # ***** DO NOT END THE LAB!!  After completing Lab 8 use the drop down window at the top to move to lab 9  DO NOT END THE LAB!! *****
 
-## Lab 9 – Microsoft Defender for Cloud
+## Lab 9 – Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers
 
 ### Exercise 1: Implement Microsoft Defender for Cloud
 
