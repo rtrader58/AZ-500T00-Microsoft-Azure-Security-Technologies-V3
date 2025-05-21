@@ -46,14 +46,14 @@ Step 4:  Allfiles is located on the Desktop <br>
 ### Exercise 1: Service endpoints and security storage
 
 Task 3: Configure a network security group to restrict access to the subnet <br>
-step 10:  Search for Network Security Group > Click on MyNsgPrivate > Settings 
+step 10:  Search for Network Security Group > Click on MyNsgPrivate > Settings  <br?
 
 Task 5: Create a storage account with a file share <br>
 Step 3:  Use the existing Resource Group <br>
 Steps 9 and 10 are reversed <br>
 Step 18 Click Enable, then click Add
 
-Task 6: Deploy virtual machines into the designated subnets
+Task 6: Deploy virtual machines into the designated subnets <br>
 Step 3:  Use the existing Resource Group <br>
 Step 3:  For the password I used the Azure Admin passowrd in the resources tab.  I had to add 123 at the end to get 12 characters <br>
 Step 9:  Use the existing Resource Group <br>
