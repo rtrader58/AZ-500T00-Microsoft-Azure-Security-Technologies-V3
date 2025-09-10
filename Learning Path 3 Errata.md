@@ -40,7 +40,7 @@ Step 4:  Allfiles is located on the Desktop <br>
 ### Exercise 1: Service endpoints and security storage
 
 Task 3: Configure a network security group to restrict access to the subnet <br>
-step 10:  Search for Network Security Group > Click on MyNsgPrivate > Settings  <br?
+step 10:  Search for Network Security Group > Click on MyNsgPrivate > Settings  <br>
 
 Task 5: Create a storage account with a file share <br>
 Step 3:  Use the existing Resource Group <br>
